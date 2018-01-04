@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans');
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    background-color: #efefef;
+}
+
+.content {
+	text-align: center;
+	height: 100vh;
+}
+
+#get-joke {
+	margin-top: 25vh;
+	padding: 20px 40px;
+	border: none;
+	border-radius: 40px;
+	font-size: 20px;
+	color: white;
+	background-color: #7a9ea3;
+}
+
+.content p {
+	width: 100%;
+	max-width: 300px;
+	background-color: white;
+	margin: 60px auto 0 auto;
+	padding: 20px;
+}
